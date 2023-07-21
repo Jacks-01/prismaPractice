@@ -13,5 +13,8 @@
     "@types/node": "^20.4.2",
     "prisma": "^5.0.0",
     "ts-node": "^10.9.1"
+  },
+  "dependencies": {
+    "@prisma/client": "^5.0.0"
   }
 }
